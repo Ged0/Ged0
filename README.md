@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm LINE</h1>
-<h3 align="center">An independent developer from China</h3>
+# 💫 About Me:
+An independent developer from China
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ged0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ged0&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ged0&show_icons=true&locale=en&layout=compact" alt="ged0" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ged0&show_icons=true&locale=en" alt="ged0" /></p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ged0&" alt="ged0" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Ged0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
